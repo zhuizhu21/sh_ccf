@@ -1,0 +1,27 @@
+```c++
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    int temp,sum=0,ex=1;
+    cin>>temp;
+    while (temp!=0) {
+        switch (temp) {
+        case 1:
+            sum+=1;
+            ex=1;
+            break;
+        case 2:
+            sum+=ex*2;
+            ex++;
+            break;
+        }
+        cin>>temp;
+    }
+    cout<<sum<<endl;
+}
+
+```
