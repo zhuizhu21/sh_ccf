@@ -1,0 +1,24 @@
+```c++
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main()
+{
+    int n,a,b,max=0;
+    cin>>n;
+    cin>>a;
+    for(int i=0;i<n-1;i++){
+        cin>>b;
+        max=abs(a-b)>max?abs(a-b):max;
+        b=a-b;
+        a=a-b;
+        b=a+b;
+    }
+    cout<<max<<endl;
+    return 0;
+}
+
+```
+
