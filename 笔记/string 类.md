@@ -1,4 +1,4 @@
-```
+```c++
 C++自带string类的常用方法
   1 #include<iostream>
   2 #include<string>
