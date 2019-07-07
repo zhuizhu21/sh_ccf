@@ -1,4 +1,4 @@
----
+```
 C++自带string类的常用方法
   1 #include<iostream>
   2 #include<string>
@@ -102,7 +102,7 @@ C++自带string类的常用方法
 100     return 0;
 101 
 102 }
----
+```
 
 
 
