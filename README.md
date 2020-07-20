@@ -4,7 +4,7 @@
 
 #### HTML
 
-掌握HTML文档的基本结构、常用标签、标签的常用属性、表单|一天
+掌握HTML文档的基本结构、常用标签、标签的常用属性、表单|一天 95
 
 ### CSS
 了解CSS框模型（padding、margin、border）、选择器（元素选择器、选择器分组、类选择器、ID选择器）、定位（static、absolute、relative、flexd）
